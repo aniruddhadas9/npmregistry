@@ -4,7 +4,7 @@
   "description": "private npm registry",
   "main": "app.js",
   "scripts": {
-    "start": "sinopia"
+    "start": "node node_modules/sinopia/lib/cli.js"
   },
   "repository": {
     "type": "git",
