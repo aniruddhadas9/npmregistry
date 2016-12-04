@@ -1,0 +1,28 @@
+{
+  "name": "registry",
+  "version": "1.0.0",
+  "description": "private npm registry",
+  "main": "app.js",
+  "scripts": {
+    "start": "sinopia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniruddhadas9/npmregistry.git"
+  },
+  "keywords": [
+    "npm-registry",
+    "private",
+    "npm",
+    "registry"
+  ],
+  "author": "Aniruddha Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniruddhadas9/npmregistry/issues"
+  },
+  "homepage": "https://github.com/aniruddhadas9/npmregistry#readme",
+  "dependencies": {
+    "sinopia": "^1.4.0"
+  }
+}
